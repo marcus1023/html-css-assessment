@@ -31,7 +31,7 @@ font-size: 2.2rem;
   justify-content: space-around;
 }
 .full-body-main{
-  background: url('/img/main-bg.jpeg');
+  background: url('../img/main-bg.jpeg');
   background-position: center;
   background-size: cover;
   height: 100vh;
